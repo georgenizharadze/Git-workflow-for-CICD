@@ -18,7 +18,7 @@ def add_multiple_values(*args):
     return sum_
 
 def get_full_name(firstname, lastname):
-    """ Return the full name in the format firstname, space, lastname
+    """ Return the full name as firstname, space, lastname
     Arguments:
     firstname: First name e.g. John
     lastname: Last name e.g. Doe
