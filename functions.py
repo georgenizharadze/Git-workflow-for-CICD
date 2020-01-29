@@ -9,7 +9,7 @@ def add_two_values(value1, value2):
 def add_multiple_values(*args):
     """ Adds a list of integers
     Arguments:
-    args: A list of integers e.g. 1,2,3,4,5,6
+    args: A list of integers e.g. 1,2,3,4,5
     """
     sum_ = 0
     for number in args:
